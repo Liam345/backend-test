@@ -4,8 +4,11 @@ Run the tests
 1. Clone the repository 
 `https://github.com/Liam345/backend-test.git`
 
-2. Install dependencies
+2. Change Directory
+cd backend-test
+
+3. Install dependencies
 `npm install`
 
-3. Finally, Run the Tests
+4. Finally, Run the Tests
 `npm run test`
