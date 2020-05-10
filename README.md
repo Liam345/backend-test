@@ -5,7 +5,7 @@ Run the tests
 `https://github.com/Liam345/backend-test.git`
 
 2. Change Directory
-cd backend-test
+`cd backend-test`
 
 3. Install dependencies
 `npm install`
